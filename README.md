@@ -85,9 +85,3 @@ We welcome contributions! Please follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 📬 Contact
-
-For questions, suggestions, or support, open an issue or email [boghawalaadi@gmail.com].
-
-**Happy job hunting!**
